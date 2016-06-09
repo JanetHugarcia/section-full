@@ -187,7 +187,7 @@ body{
 
 
 .onepage .section:nth-child(3n+3) {
-	color: wheat;
+	color: #A163CC;
 	background-color: #4b2e5f;
 }
 
@@ -259,5 +259,5 @@ h2, .h2 {
 .icon-code{
 	font-size: 16em;
 	color:darken(#FFF619,10%);
-	text-shadow:icon-long-shadow(400,darken(#FFF619,20%));
+	text-shadow:icon-long-shadow(300,darken(#FFF619,20%));
 }
